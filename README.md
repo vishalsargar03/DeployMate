@@ -34,8 +34,7 @@ At this point, the following services will be up and running:
 
 ---
 
-## Demo
-https://drive.google.com/file/d/1lq0Js3HBUi0iSZafGm89ykZOSg5zfGmt/view?usp=sharing
 
----
+
+
 
